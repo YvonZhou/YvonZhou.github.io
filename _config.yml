@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yvon Zhou"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his" # example: "she/her"  
   bio              : "Adjunct Faculty at Western New England University"
   location         : "Amherst, MA"
   employer         : "Western New England University"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/YvonZhou"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
